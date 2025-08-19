@@ -1,0 +1,134 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Curso Bombeiro Mirim</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      margin: 0;
+      padding: 0;
+      line-height: 1.6;
+      background-color: #f7f7f7;
+      color: #333;
+    }
+    header {
+      background-color: #e63946;
+      color: #fff;
+      padding: 20px;
+      text-align: center;
+    }
+    .container {
+      padding: 20px;
+      max-width: 800px;
+      margin: auto;
+      background-color: #fff;
+    }
+    h2 {
+      color: #e63946;
+    }
+    .button {
+      background-color: #e63946;
+      color: white;
+      padding: 15px 25px;
+      font-size: 18px;
+      border: none;
+      border-radius: 5px;
+      cursor: pointer;
+      text-decoration: none;
+      display: inline-block;
+    }
+    footer {
+      background-color: #333;
+      color: white;
+      text-align: center;
+      padding: 10px;
+      margin-top: 40px;
+    }
+    a {
+      color: #e63946;
+      text-decoration: none;
+    }
+  </style>
+</head>
+<body>
+
+<header>
+  <h1>Curso Bombeiro Mirim 🚒</h1>
+  <p>Educação, primeiros socorros e cidadania para crianças de 7 a 14 anos</p>
+</header>
+
+<div class="container">
+  <h2>O que é o Curso Bombeiro Mirim?</h2>
+  <p>O Curso Bombeiro Mirim é um programa educacional online que ensina crianças noções de primeiros socorros, combate a incêndios, cidadania e disciplina de forma divertida e interativa.</p>
+
+  <h2>Conteúdo Programático:</h2>
+  <ul>
+    <li>Introdução ao Corpo de Bombeiros</li>
+    <li>Prevenção de Acidentes Domésticos</li>
+    <li>Noções de Primeiros Socorros</li>
+    <li>Evacuação de Emergência</li>
+    <li>Combate a Incêndios</li>
+    <li>Ordem Unida e Disciplina</li>
+    <li>Cidadania e Responsabilidade Social</li>
+    <li>Atividades Práticas</li>
+  </ul>
+
+  <h2>Bônus:</h2>
+  <ul>
+    <li>Apostila digital (PDF)</li>
+    <li>Certificado de conclusão</li>
+    <li>Desafios com prêmios</li>
+    <li>Acesso vitalício</li>
+  </ul>
+
+  <h2>💸 Valor Promocional:</h2>
+  <p><strong>De R$ 297,00 por apenas R$ 97,00!</strong></p>
+
+  <a href="https://seusite.com/comprar-bombeiro-mirim" class="button">🎟️ QUERO PARTICIPAR</a>
+
+  <hr />
+
+  <h2>🆘 Como Desafogar Alguém (Primeiros Socorros)</h2>
+  <p>Se alguém estiver engasgado, siga as instruções abaixo:</p>
+
+  <h3>👶 Bebês (até 1 ano)</h3>
+  <ul>
+    <li>5 palmadas nas costas (entre as escápulas)</li>
+    <li>5 compressões no peito com dois dedos</li>
+    <li>Repita até desobstruir</li>
+  </ul>
+
+  <h3>🧑 Crianças e Adultos</h3>
+  <ul>
+    <li>Fique atrás da pessoa e envolva com os braços</li>
+    <li>Posicione o punho acima do umbigo</li>
+    <li>Pressione com força para dentro e para cima (Manobra de Heimlich)</li>
+    <li>Se a pessoa desmaiar, inicie RCP e chame o SAMU (192)</li>
+  </ul>
+
+  <h3>Fontes confiáveis:</h3>
+  <ul>
+    <li><a href="https://www.saude.pr.gov.br/Pagina/Manobras-de-Desengasgo" target="_blank">Secretaria da Saúde do PR</a></li>
+    <li><a href="https://www.tuasaude.com/o-que-fazer-se-alguem-engasgar/" target="_blank">Tua Saúde - Engasgo</a></li>
+    <li><a href="https://primeiros-socorros.online/emergencias/engasgo" target="_blank">Primeiros Socorros Online</a></li>
+  </ul>
+
+  <hr />
+
+  <h2>📱 Onde vender seu curso:</h2>
+  <ul>
+    <li><strong>Hotmart:</strong> <a href="https://www.hotmart.com" target="_blank">www.hotmart.com</a></li>
+    <li><strong>Eduzz:</strong> <a href="https://www.eduzz.com" target="_blank">www.eduzz.com</a></li>
+    <li><strong>Kiwify:</strong> <a href="https://www.kiwify.com.br" target="_blank">www.kiwify.com.br</a></li>
+  </ul>
+</div>
+
+<footer>
+  <p>Curso Bombeiro Mirim © 2025 - Todos os direitos reservados.</p>
+</footer>
+
+</body>
+</html>
+
